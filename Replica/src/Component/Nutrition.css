@@ -1,0 +1,22 @@
+.card {
+  height: 300px !important;
+  width: 250px !important;
+}
+.card-img{
+  border-radius: 50% !important;
+  margin-top: -40px !important;
+  margin-left: 75px !important;
+  width: 100px;
+  height: 100px;
+ 
+}
+#colimg{
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  width: 700px;
+}
+#col2img{
+  border-radius: 50%;
+  width: 600px;
+  height: 200px;
+}
